@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 7 Plus",
+    "description": "Apple, 32GB, RAM: 3GB, iOS13",
+    "price": 17000000,
+    "image": "https://i.ndh.vn/2021/08/07/a2-1628309230.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "iPad Pro 2020",
+    "description": "Apple, 128GB, RAM: 6GB",
+    "price": 37000000,
+    "image": "https://img.websosanh.vn/v2/users/review/images/g0uimocg53p63.jpg?compress=85",
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Galaxy Note 10 Plus",
+    "description": "Samsung, 64GB, RAML: 6GB",
+    "price": 24000000,
+    "image": "https://zda.vn/wp-content/uploads/2020/12/dien-thoai-chup-anh-dep-11.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 4,
+    "name": "iPhone 7 Plus",
+    "description": "Apple, 32GB, RAM: 3GB, iOS13",
+    "price": 17000000,
+    "image": "https://i.ndh.vn/2021/08/07/a2-1628309230.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 5,
+    "name": "iPad Pro 2020",
+    "description": "Apple, 128GB, RAM: 6GB",
+    "price": 37000000,
+    "image": "https://img.websosanh.vn/v2/users/review/images/g0uimocg53p63.jpg?compress=85",
+    "category_id": 3
+  },
+  {
+    "id": 6,
+    "name": "iPhone 7 Plus",
+    "description": "Apple, 32GB, RAM: 3GB, iOS13",
+    "price": 17000000,
+    "image": "https://i.ndh.vn/2021/08/07/a2-1628309230.jpg",
+    "category_id": 1
+  }
+]
